@@ -1,5 +1,6 @@
 import './App.css';    import React from 'react';
 import About from './components/About';
+import Nav from './components/Nav';
 
 
 
@@ -8,6 +9,7 @@ import About from './components/About';
     
       return (
         <div>
+          <Nav></Nav>
           <main>
             <About></About>
           </main>
