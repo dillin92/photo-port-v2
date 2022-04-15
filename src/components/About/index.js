@@ -6,7 +6,7 @@ function About() {
   return (
 
 <section className="my-5">
-  <h1 id="about">its family night thats my excuse!</h1>
+  <h1 id="about">got this one by the skivvies!</h1>
   <img src={coverImage} className="my-2" style={{ width: "100%" }} alt="cover" />
 </section>
 
